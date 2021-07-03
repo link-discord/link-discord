@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**link-discord/link-discord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Link and im a Javascript Developer that loves to Code. I like to code in fields like Data Science and I like to make Bots and I also like to contribute to Public Repositories such as Mineflayer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=link-discord&show_icons=true&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=link-discord&theme=tokyonight)]()
+
+---
+
+## Pinned Repositories
+[![Mineflayer Autocrystal](https://github-readme-stats.vercel.app/api/pin/?username=link-discord&repo=mineflayer-autocrystal&theme=tokyonight)](https://github.com/LINKdiscordd/mineflayer-autocrystal)
+[![Mineflayer Autoeat](https://github-readme-stats.vercel.app/api/pin/?username=link-discord&repo=mineflayer-auto-eat&theme=tokyonight)](https://github.com/LINKdiscordd/mineflayer-auto-eat)
