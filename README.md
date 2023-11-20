@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Link and im a Javascript Developer that loves to Code. I like to code in fields like Data Science and I like to make Bots and I also like to contribute to Public Repositories such as Mineflayer.
+I am Link and im a Developer that loves to Code.
 
 ---
 
