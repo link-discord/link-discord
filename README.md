@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Link and im a Developer that loves to Code.
+I am Link and im a Developer that likes to Code.
 
 ---
 
